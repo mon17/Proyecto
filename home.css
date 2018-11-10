@@ -11,8 +11,8 @@ header {
 span{
 	position: relative;
 	color:white;
-	margin-left:30px;
-	left: 110px;
+	margin-left:40px;
+	left: 125px;
 	top: 14px;
 	font-size: 13px;
 	font-family: sans-serif;
@@ -35,10 +35,15 @@ nav {
 	height: 100px;
 	background:#ffffff;
 }
+.logo img {
+	position: absolute;
+	left: 150px;
+
+}
 nav ul {
 	position: absolute;
 	top: 0px;
-	left: 400px;
+	left: 440px;
 	text-align: center;
 	width: 500px;
 	height: 100px;
@@ -58,5 +63,19 @@ nav ul li {
 nav ul li a {
 	color:#42d58f;
 }
-
-
+.boton{
+	position: relative;
+	bottom: 70px;
+	left:1000px;
+	height: 30px;
+	width: 130px;
+	background:#51d596;
+	border-radius: 30px;
+}
+.boton span {
+	position: absolute;
+	top: 7px;
+	left:-16px;
+	font-size:14px;
+	font-weight: 600;
+}
