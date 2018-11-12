@@ -13,13 +13,14 @@ span{
 	color:white;
 	margin-left:40px;
 	left: 125px;
-	top: 14px;
+	top: 10px;
 	font-size: 13px;
 	font-family: sans-serif;
 }
 ul{	
 	position: absolute;
 	list-style: none;
+	top: 10px;
 	left: 1000px;
 	color: white;
 	bottom: 8px;
@@ -58,14 +59,13 @@ nav ul li {
 	font-weight: 600;
 	margin-left: 15px;
 	color:#8a8c8b;
-
 }
 nav ul li a {
-	color:#42d58f;
+	color:#42d58f !important;
 }
 .boton{
-	position: relative;
-	bottom: 70px;
+	position: absolute;
+	top: 76px;
 	left:1000px;
 	height: 30px;
 	width: 130px;
@@ -73,9 +73,11 @@ nav ul li a {
 	border-radius: 30px;
 }
 .boton span {
-	position: absolute;
-	top: 7px;
+	top:4px;
 	left:-16px;
 	font-size:14px;
 	font-weight: 600;
+}	
+#carouselExample {
+	width:100%;
 }
