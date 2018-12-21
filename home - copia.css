@@ -129,7 +129,7 @@ span.more {
 .my-5 {
     position: relative;
     bottom: 32px;
-    left: 530px;
+    padding-right: 10px;
     border: 1px solid #53bd7f;
     width: 150px;
 }
@@ -160,6 +160,9 @@ span.more {
 	color: black;
 	font-family: sans-serif;
 	font-weight:800;
+}
+.big {
+    font-weight: 700;
 }
 .boton {
 	position: relative;
@@ -448,3 +451,4 @@ button{
 .final {
 	color: #000;
 } 
+

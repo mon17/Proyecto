@@ -1,0 +1,183 @@
+﻿body
+{
+    margin:0px;
+    padding:0px;
+}
+.principal {
+    color: white;
+    background-color:#5b5b5b;
+    width: 100%;
+    height: 40px;
+
+}
+span.info-subheader {
+    position: relative;
+    color: white;
+    margin-left: 40px;
+    left: 125px;
+    top: 10px;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.RedesSociales {
+    position: absolute;
+    list-style: none;
+    top: 10px;
+    left: 1000px;
+    color: white;
+    bottom: 8px;
+}
+.RedesSociales li {
+    margin-left: 5px;
+    display: inline;
+}
+hr {
+    margin: 0.1px !important;
+}
+nav {
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 100px;
+    background-color:#5b5b5b;
+}
+.logo img {
+    position: absolute;
+    left: 150px;
+}
+nav ul {
+    position: absolute;
+    top: 0px;
+    left: 440px;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    background-color: #5b5b5b;
+}
+nav ul li {
+    position: relative;
+    float:right;
+    top: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 15px;
+    list-style: none;
+    color: white;
+    }
+nav ul li a {
+    color: #42d58f !important;
+}
+nav ul li button {
+    position: relative;
+    left:220px;
+    bottom:35px;
+ }
+section ul {
+    position: relative;
+    bottom: 100px;
+    padding-left: 220px;
+    padding-right: 170px;
+    left: 0px;
+    width: 100%;
+    height: 350px;
+}
+section li {
+    background-color:white;
+    position: relative;
+    padding-top: 20px;
+    padding-left: 55px;
+    float: left;
+    width: 32%;
+    height: 450px;
+    color: black;
+}
+.verde {
+    bottom:20px;
+    background-color: #42d58f;
+}
+.blanco {
+    color: white;
+}
+.letras-1 {
+    position: relative;
+    bottom: 45px;
+    width: 100%;
+    height: 240px;
+    text-align: center;
+}
+.letras-1 h1 {
+    color: #42d58f;
+    padding-right: 83px;
+    }
+.my-51 {
+    position: relative;
+    bottom: 5px;
+    left: 555px;
+    border: 1px solid #53bd7f;
+    width: 150px;
+}
+.slide2 {
+    position: relative;
+    top: 10px;
+    left: 100px;
+    width: 1000px;
+    height: 450px;
+    background-color: #eaeaea;
+}
+.slide2 ul {
+    position: absolute;
+    padding-left: 70px;
+    padding-right: 60px;
+    padding-top: 40px;
+    top: 0px;
+    left: 469px;
+    width: 670px;
+    height: 450px;
+    color: white;
+    background-color: #42d58f;
+ }
+.slide2 ul h4 {
+    color: black;
+    font-family: sans-serif;
+    font-weight: 800;
+ }
+.big{
+    position:relative;
+    font-weight:700;
+    margin-right:240px;
+}
+.boton2 {
+    
+    right:500px;
+}
+.letras-2 {
+    position: relative;
+    background-color: #eaeaea;
+    padding-top:20px;
+    color: #42d58f;
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    padding-top: 100px;
+    top:80px;
+}
+.my-52 {
+    position: absolute;
+    bottom:80px;
+    left: 599px;
+    border: 1px solid #53bd7f;
+    width: 125px;
+}
+.card-deck-1 {
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 30px;
+    top: 80px;
+    background-color: #eaeaea;
+}
+.card {
+    padding-left: 30px;
+    padding-right: 30px;
+}
